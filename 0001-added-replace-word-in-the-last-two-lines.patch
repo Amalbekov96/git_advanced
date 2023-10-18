@@ -1,0 +1,24 @@
+From 4651a95bcb22bac3f0c9743eb674adef7e8fe58b Mon Sep 17 00:00:00 2001
+From: Kushtar <Amalbekov312@gmail.com>
+Date: Wed, 18 Oct 2023 11:19:28 +0600
+Subject: [PATCH] added replace word in the last two lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 142b7be..7068626 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -7,5 +7,5 @@ firstFile.txt
+ firstFile.txt
+ firstFile.txt
+ firstFile.txt
+-firstFile.txt
+-firstFile.txt
++replace firstFile.txt
++replace firstFile.txt
+-- 
+2.37.1 (Apple Git-137.1)
+
