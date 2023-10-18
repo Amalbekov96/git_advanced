@@ -1,5 +1,7 @@
 changed secondFile.txt secondFile.txt
 changed secondFile.txt 
+updated secondFile.txt secondFile.txt
+updated secondFile.txt 
 secondFile.txt 
 secondFile.txt 
 secondFile.txt 
