@@ -10,3 +10,4 @@ In this project, we use Jenkins to automate various tasks. To set up the necessa
    - **Password**: `<YOUR_PASSWORD>`
 
 2. **API Key**: If your Jenkins jobs require an API key, make sure to securely manage and store the key. Do not expose your actual API key in public repositories.
+3. Added a new line
